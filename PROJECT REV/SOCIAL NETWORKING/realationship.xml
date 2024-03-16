@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<relationship person1='priya' person2='vijay' gender1='female' gender2="male"></relationship>
+<relationship person1='sowmi' person2='vijay' gender1='female' gender2="male"></relationship>
+<relationship person1='srinidhi' person2='vijay' gender1='female' gender2="male"></relationship>
+<relationship person1='nancy' person2='vijay' gender1='female' gender2="male"></relationship>
+<relationship person1='riya' person2='nancy' gender1='female' gender2="female"></relationship>
+<relationship person1='riya' person2='priya' gender1='female' gender2="female"></relationship>
+<relationship person1='riya' person2='sowmi' gender1='female' gender2="female"></relationship>
+<relationship person1='riya' person2='srinidhi' gender1='female' gender2="female"></relationship>
+<relationship person1='vijay' person2='riya' gender1='male' gender2="female"></relationship>
+<relationship person1='vijay' person2='saranya' gender1='male' gender2="female"></relationship>
+<relationship person1='vijay' person2='shiju' gender1='male' gender2="male"></relationship>
+<relationship person1='vijay' person2='karthi' gender1='male' gender2="male"></relationship>
+<relationship person1='karthi' person2='danesh' gender1='male' gender2="male"></relationship>
+<relationship person1='karthi' person2='praveen' gender1='male' gender2="male"></relationship>
+<relationship person1='karthi' person2='venky' gender1='male' gender2="male"></relationship>
+<relationship person1='karthi' person2='udhay' gender1='male' gender2="male"></relationship>
+<relationship person1='danesh' person2='vijay' gender1='male' gender2="male"></relationship>
+<relationship person1='praveen' person2='vijay' gender1='male' gender2="male"></relationship>
+<relationship person1='venky' person2='vijay' gender1='male' gender2="male"></relationship>
+<relationship person1='udhay' person2='vijay' gender1='male' gender2="male"></relationship>
+</data>

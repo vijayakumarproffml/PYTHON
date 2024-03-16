@@ -1,0 +1,19 @@
+Expression Tree Evaluation: Implementing Infix, Prefix, and Postfix Traversal Vijaya Kumar P
+
+
+ 
+Graph Partitioning Algorithms: Balancing Nodes and Edges in Discrete Optimization Vijaya Kumar P
+
+
+ 
+Network Analysis Tool: Analyzing Graph Structures with BFS and DFS Vijaya Kumar P
+
+
+
+ 
+Social Network Analysis: BFS and DFS for Exploring Connectivity Vijaya Kumar P
+
+
+
+ 
+Word Search Solver: Implementing Backtracking for Word Search Puzzles Vijaya Kumar P

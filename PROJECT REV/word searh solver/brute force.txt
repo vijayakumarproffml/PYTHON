@@ -1,0 +1,17 @@
+---> What is brute force algorithms?
+     Brute Force is a straightforward method used in algorithmic problem-solving that checks every possible solution until the correct one is found. Brute Force Algorithms function by searching each element sequentially until the desired result is found or all options are exhausted.
+
+---> Is the brute force algorithm efficient?
+    2 Disadvantages of brute force algorithms
+
+    One of the main disadvantages of brute force algorithms is that they are very inefficient and time-consuming. They can consume a lot of computational resources, such as memory, CPU, or network bandwidth, depending on the size and complexity of the problem.
+
+---> What is the brute force matching algorithm?
+     The Brute Force algorithm compares the pattern to the text, one character at a time, until unmatching characters are found: - Compared characters are italicized. - Correct matches are in boldface type.
+
+---> Why do we use brute force algorithm?
+
+    Advantages of Brute Force Algorithm
+
+    Correctness: By systematically considering all possible solutions, a brute force algorithm guarantees to find the optimal solution, if one exists. It exhaustively checks all possibilities, leaving no room for overlooking potential solutions.
+
